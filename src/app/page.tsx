@@ -1,5 +1,5 @@
 import Image from "next/image";
 
 export default function Home() {
-  return <div>real</div>;
+  return <div>Kath</div>;
 }
