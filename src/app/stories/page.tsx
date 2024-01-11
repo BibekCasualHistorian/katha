@@ -7,8 +7,8 @@ const page = () => {
         className="text-white  rounded-xl p-5"
         style={{ background: "#343334" }}
       >
-        <h1 className="text-2xl mb-2">Update Password</h1>
-        <p className="mb-3 text-sm">
+        <h1 className="text-2xl mb-1.5">Update Password</h1>
+        <p className="mb-2 text-sm">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum, ut
           laudantium. Natus?
         </p>

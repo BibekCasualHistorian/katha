@@ -10,7 +10,7 @@ const Header = () => {
   const normalLinks = [
     { pathName: "/shorts", title: "Shorts" },
     { pathName: "/series", title: "Series" },
-    { pathName: "/stories", title: "Stories" },
+    { pathName: "/stories", title: "कथा" },
     { pathName: "/wishlist", title: "WishList" },
     { pathName: "/reading", title: "Reading" },
   ];
